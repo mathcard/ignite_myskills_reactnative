@@ -1,3 +1,14 @@
 -- Criando projeto
 npx react-native init myskills
 
+
+-- Estrutura dos arquivos
+.buckconfig - compilação
+.flowconfig - verificação de tipagem
+
+
+-- Executar projeto
+yarn run android
+npx react-native run-android
+
+-- Passando projeto para typescript
